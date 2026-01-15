@@ -71,9 +71,8 @@
 ---
 
 ## 🌌 Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eroniyom&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=eroniyom&label=Profile%20Views&color=0d1117&style=for-the-badge" />
 </p>
 
 ---
