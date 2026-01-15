@@ -46,27 +46,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eroniyom&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eroniyom&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eroniyom&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/eroniyom/eroniyom/blob/output/github-contribution-grid-snake.svg" />
-</p>
+📫 Connect With Me
+<p align="center"> <a href="https://github.com/eroniyom" target="_blank"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /> </a> &nbsp; <a href="mailto:eroniyom@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=red" /> </a> &nbsp; <a href="https://instagram.com/eroniyom" target="_blank"> <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /> </a> &nbsp; <a href="https://linkedin.com/in/eroniyom" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> 
 
 ---
 
